@@ -1,6 +1,7 @@
 " normal mode shortcuts
 nnoremap <silent> <leader>ev :edit $MYVIMRC<CR>
 nnoremap <silent> <leader>es :edit $HOME/.config/nvim/shortcuts.vim<CR>
+nnoremap <silent> <leader>ep :edit $HOME/.config/nvim/plugs.vim<CR>
 nnoremap <silent> <leader>sv :source $MYVIMRC<CR>
 
 nnoremap <silent> <leader>ez :edit $HOME/.zshrc<CR>
